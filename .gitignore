@@ -1,0 +1,6 @@
+node_modules/*
+.env
+tslint.json
+tsconfig.json
+yarn.lock
+yarn-error-log
